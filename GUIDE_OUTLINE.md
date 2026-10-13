@@ -102,6 +102,11 @@ Voice: first-person, honest about trade-offs. Not a promise of results.
 - State-by-state legal summaries unless each state is verified.
 - Testimonials you cannot back with real names or permission.
 
+## Decisions made (from the author)
+- Open book: willing to share the full story (documented in `content_pipeline/story_facts.md`).
+- Audience: both parents and students. Add a short "for students" box at the end of each chapter.
+- Tone: warm, personal, relatable.
+
 ## Questions for you before drafting
 - Which parts of your story are you comfortable sharing, and what documents can you show?
 - Is the guide for the parent, the student, or both?
