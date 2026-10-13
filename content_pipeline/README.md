@@ -9,6 +9,13 @@ AI drafts. A human approves. A scheduling tool publishes. Nothing in this folder
 4. `python3 pipeline.py export --start YYYY-MM-DD` creates `export/schedule.csv`.
 5. Upload to your scheduling tool, record or design the video, post.
 
+## Faceless animated format
+- Each video draft is a storyboard: scenes with narration, a simple animated visual, and on-screen text.
+- No real people or faces appear. Visuals are illustrated characters, motion graphics, timelines and text cards.
+- Trust without a face: use your own recorded voiceover (no camera), show real documents with personal details blurred, and be specific about your story. A synthetic voice works but weakens the personal feel.
+- Disclose AI use where platforms require it (rules for AI-generated or synthetic media on YouTube, TikTok and Meta change; check each). Never present an animated character as a real family or invent testimonials.
+- Animation tools to compare (unverified; check price, licensing and export limits): Canva animations, CapCut, or an AI video generator. A Canva connector may be available in this workspace, to be confirmed before use.
+
 ## Setup
 1. Fill `story_facts.md` with true facts (the generator refuses to run until you do). This is the only place personal details come from.
 2. Set `ANTHROPIC_API_KEY` and `CONTENT_MODEL` in your own shell. Do not commit keys. `--dry-run` works without them.
@@ -32,6 +39,6 @@ AI drafts. A human approves. A scheduling tool publishes. Nothing in this folder
 Scheduler options to check: Buffer, Metricool, Later, or each platform's own scheduler. I have not verified current prices or whether each accepts CSV bulk upload.
 
 ## Not automated on purpose
-- Recording yourself on video (your face and voice are the trust signal).
+- Recording your voiceover (recommended) and final video assembly/export.
 - Replying to comments and DMs.
 - Anything about money: ads, refunds, pricing.

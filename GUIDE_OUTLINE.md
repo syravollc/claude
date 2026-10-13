@@ -106,6 +106,7 @@ Voice: first-person, honest about trade-offs. Not a promise of results.
 - Open book: willing to share the full story (documented in `content_pipeline/story_facts.md`).
 - Audience: both parents and students. Add a short "for students" box at the end of each chapter.
 - Tone: warm, personal, relatable.
+- Presentation: faceless brand with animated videos. Credibility comes from specific story detail, documents shown with personal info blurred, and optionally your own voiceover.
 
 ## Questions for you before drafting
 - Which parts of your story are you comfortable sharing, and what documents can you show?

@@ -42,10 +42,15 @@ def call_model(prompt, system):
 SYSTEM = ("You write warm, personal, relatable content for homeschool parents and students, in the first person "
           "as the author. Use ONLY the personal facts provided. Never invent personal details, statistics, quotes, "
           "testimonials, or results. No guarantees or promised outcomes. No medical or mental-health advice. "
+          "The author is faceless: never show or describe a real person as the author; use illustrated or abstract visuals. "
+          "Never depict fake testimonials or fake customers. "
           "If a fact you need is missing, write [NEEDS FACT: ...] instead of guessing.")
 
 def make_prompt(topic, fmt, facts_text):
-    shapes = {"short_video": "A 30-45 second short-video script: hook line, 3-4 beats, closing line, then a caption with 3 hashtags.",
+    shapes = {"short_video": ("A faceless ANIMATED short video storyboard, 30-45 seconds, 5-7 scenes. For each scene give: "
+                              "SCENE n (seconds) | NARRATION (spoken words) | VISUAL (simple animation: illustrated characters, "
+                              "motion graphics, timelines, text cards; no real people or faces) | ON-SCREEN TEXT. "
+                              "First scene is a hook. Last scene invites to the free checklist. Then a caption with 3 hashtags."),
               "carousel_or_post": "A text post or 6-slide carousel: slide-by-slide text, then a caption."}
     return (f"Personal facts (only source of personal details):\n{facts_text}\n\nTopic: {topic['title']} "
             f"(angle: {topic['angle']}).\nWrite: {shapes[fmt]}\nEnd with a gentle invitation to get the free "
