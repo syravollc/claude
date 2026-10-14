@@ -116,3 +116,7 @@ Any change to the plan or limits is written here **before** it is applied, with 
 - It cannot verify live product demand or supplier prices. Those come from Trends, the Ad Library and supplier quotes.
 - Tax, licensing and consumer-protection duties depend on your location and are not covered here.
 - Q4 timing is tight: if tested products cannot be delivered before the holidays, expect weaker conversion and more refunds.
+
+## 12. Change log (entries written before any spend)
+
+- 2026-10-14, approved by the user in chat: (1) niche changed to teen/young-adult gift items, no kids' products; (2) print-on-demand tee, Concept 3 "Quiet Hours", is the candidate product; (3) gate 3 exception for this product only: delivery time up to the POD provider's quoted production plus shipping, but still capped by kill rule 5 (over 8 days with no fix stops the test). No other gate, limit or kill rule changed. Known risk recorded: apparel is a saturated category, so a fail on distinctiveness is likely.
