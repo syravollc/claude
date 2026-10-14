@@ -75,3 +75,25 @@ Honest read: on the evidence available, **all three are weaker than the v2 table
 4. Contact 2-3 jewelry or stationery wholesalers directly and ask: unit cost at qty 1, shipping, US warehouse address, delivery days, return policy.
 
 Paste the numbers back and I will rerun the break-even. Any account creation or paid plan is your decision and needs your explicit yes first.
+
+## 8. Products with published supplier prices (print-on-demand), searched 2026-10-14
+
+Only print-on-demand (POD) publishes usable per-item prices without an account. Figures come from third-party blogs that disagree with each other; Printful's and Printify's own catalogs are authoritative. Printify prices vary by print provider and none were verified.
+
+Printful, US, as reported (unverified): Bella+Canvas 3001 tee base $12.95 (Free plan) or about $9.05 (Growth plan); hoodie base $26.95 (Free) or about $19.45 (Growth); US shipping first item tee about $4.75, hoodie about $8.49 (another source says $3.99 and $5.49). The Growth plan fee was not confirmed.
+
+| Item | Price | Landed cost | Gross margin | M | Rate needed at $0.60 CPC | Gates (price, GM>=50%, rate<=4%) |
+|---|---|---|---|---|---|---|
+| Tee, Free plan | $29 | $17.70 | 39% | $8.71 | 6.9% | FAIL |
+| Tee, Growth plan | $29 | $13.80 | 52% | $12.61 | 4.8% | FAIL (rate) |
+| Tee, Growth plan | $35 | $13.80 | 61% | $18.13 | 3.3% | pass on paper |
+| Hoodie, Growth plan | $55 | $27.94 | 49% | $22.42 | 2.7% | FAIL (margin) |
+| Hoodie, Growth plan | $60 | $27.94 | 53% | $27.02 | 2.2% | pass on paper |
+| Hoodie, Free plan | $60 | $35.44 | 41% | $19.52 | 3.1% | FAIL |
+
+Notes:
+- Passing on paper depends on the unverified Growth plan, which has a monthly fee that counts against the $100 store/tools allowance.
+- POD turnaround is usually production plus shipping, which likely exceeds the plan's 2-6 day delivery gate. Using POD would require a written plan-log change before spending.
+- Designs must be original. Fan art, characters and brand names fail the trademark gate.
+- CJdropshipping US-warehouse stock: delivery reported 2-7 days, but CJ notes mention pre-stocking minimums (about 100 pieces per product, older source) and US-warehouse shipping up 15% after USPS changes. That is inventory risk, not dropshipping. Tariffs also raise costs.
+- Spocket: US suppliers with 2-7 day shipping claimed. Plan fees reported inconsistently ($0-$300 per month). No product price list found without signup.
