@@ -54,3 +54,24 @@ For each candidate, record in the Test Log tab before any spend:
 ## 6. Next step
 
 User supplies supplier quotes or Trends/Ad Library screenshots for B, A and C. I then rerun the break-even with real numbers and say which, if any, passes the gates. If none passes, the answer is to reject and not spend.
+
+## 7. Supplier search results (2026-10-14, web search only)
+
+Result: **no confirmed US-warehouse dropship supplier and no real quote was found for any of the three.** Real quotes need a supplier account or a contact form, which I cannot create. Everything below is a public price signal, not a quote.
+
+| Product | What the search showed | What it implies |
+|---|---|---|
+| B, layered necklace set | eBay US sellers: lot of 10 layered necklaces about $19 plus about $3.40 shipping (Texas); lot of 12 chokers about $13 (California). A 2024 blog names Fashion Bella as a US-warehouse jewelry supplier, no prices. CJdropshipping price not found. | Very cheap unit costs exist (about $1.5-2 per necklace in lots), but these are retail lots, not dropship terms. Cheap lots also signal a low Amazon/eBay price anchor, which squeezes a $36 price. |
+| A, journaling box | Faire pastel highlighter set: $130 minimum order, made in China, $4.50 MSRP (bulk, not dropship). eBay Chicago 12-pack pastel gel pens plus highlighter: $13.99. SaleHoo says stationery sets retail about $9-19. | A $34 bundle is 2-3x the usual retail band. It needs a clearly premium box, or it will not convert. No dropship source found. |
+| C, hair kit | Kitsch heatless curling set: MSRP $18 (a brand, so a trademark issue and not resellable as yours). Faire wholesale needs signup, price hidden. Several mirror domains (.it.com) show Kitsch sets at $6.44 and look like unreliable or counterfeit storefronts. | A $32 price is well above the $18 branded anchor. Do not buy from those mirror domains. |
+
+Honest read: on the evidence available, **all three are weaker than the v2 table assumed**, mainly because comparable retail prices ($9-19) sit well below the $30+ the plan needs. The $30 bundle price is an assumption that still has to survive the Amazon price check.
+
+### Where to get real quotes (you do this; I have not verified current terms)
+
+1. CJdropshipping: free account, filter for US warehouse, shows unit price, shipping to US and stock.
+2. Zendrop, Spocket, Syncee: filter for US suppliers; some require paid plans (state costs before signing up).
+3. Faire: wholesale signup shows hidden prices, but it is bulk, not dropship.
+4. Contact 2-3 jewelry or stationery wholesalers directly and ask: unit cost at qty 1, shipping, US warehouse address, delivery days, return policy.
+
+Paste the numbers back and I will rerun the break-even. Any account creation or paid plan is your decision and needs your explicit yes first.
