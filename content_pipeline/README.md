@@ -2,6 +2,18 @@
 
 AI drafts. A human approves. A scheduling tool publishes. Nothing in this folder posts anywhere or touches your accounts.
 
+## Automation: what is and isn't automatic
+| Step | Automatic? |
+|---|---|
+| Script and storyboard drafts | Yes (`pipeline.py generate`; needs your API key) |
+| Animated video from a storyboard | **Yes**: `python3 make_animated_video.py drafts/weeks_02_to_08.md "Week 2, Post 2" out.mp4` (branded cards, motion, captions; adds a voiceover if `pip install edge-tts` works and you're online) |
+| Face video recording | **No**: someone has to record it. The teleprompter page helps |
+| Face video editing | **Yes**: `edit_video.py` (cuts pauses, 9:16, loudness, captions) |
+| Posting | **Not from here.** Upload to Metricool/YouTube Studio/each app, or use `export/schedule.csv` for bulk upload where supported |
+| Replying to comments | No |
+
+Tested here: the animated-video maker (silent, from the week 2 storyboard) and the video editor (synthetic clip). Not tested here: voiceover (the free voice service is blocked in this cloud environment), real-footage editing, and any posting. The animated videos are clean kinetic-text explainers, not illustrated characters. For illustrations, add them in Canva/CapCut.
+
 ## Content mix: 2 on-camera + 2 faceless animated per week
 | Post | Format | Made by |
 |---|---|---|
