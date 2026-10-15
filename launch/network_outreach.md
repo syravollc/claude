@@ -20,7 +20,10 @@ Hi [Name], I'm [NAME], a former homeschooler who finished high school at 13 and 
 ## Message D: after a free chat (a gentle follow-up)
 Thanks for talking today, [Name]! Here's the free checklist: [LINK] and the three questions we discussed. If it's helpful, I'd love to hear what was most useful, and what I could do better. No obligation.
 
-## Track it (simple)
+## Track it
+Use `outreach_tracker.xlsx` (Outreach tab for messages, Problems Log tab for what you hear). Use initials or codes, not full names.
+
+## Old simple table (optional)
 | Date | Who | Message sent | Replied? | Free chat? | Booked? | Notes |
 |---|---|---|---|---|---|---|
 
