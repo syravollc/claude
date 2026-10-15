@@ -5,11 +5,11 @@ Never publish a claim you cannot back up with documents. The author can show: di
 
 ## Timeline
 - Pulled out of in-person school in 3rd grade because in-person classes were not working for me.
-- Completed high school through FLVS (Florida Virtual School), graduating in 2021 at age 13.
+- Completed high school through FLVS Flex (Florida Virtual School), graduating in 2021 at age 13.
 - Associate degree in political science from Palm Beach State College, 2023, at age 15.
 - Transferred to Florida Atlantic University (FAU); bachelor's degree in political science, 2025, at age 17.
 - Currently pursuing a master's degree in political science.
-- Accuracy note: describe FLVS exactly as it was (check whether it was FLVS Flex or Full Time and say so), because homeschool audiences notice the difference between home education and virtual public school. [VERIFY]
+- Accuracy note: describe it exactly as it was: FLVS Flex (confirmed by the author), because homeschool audiences notice the difference between home education and virtual public school. [VERIFY]
 
 ## What was wrong with in-person school for me
 - It was one linear, one-sided learning style that did not fit me, and I struggled to adapt to it.

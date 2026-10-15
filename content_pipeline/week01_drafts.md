@@ -80,7 +80,7 @@ Drafted with AI, reviewed and edited by me.
 
 ---
 ## Honesty checks before posting
-- Say "FLVS" accurately. Choose wording that matches what it was (Flex vs Full Time).
+- Say "FLVS Flex" accurately and keep the description of FLVS to what you can state from experience.
 - Do not imply every child can graduate at 13. Say it's one outcome.
 - Do not claim these methods will work for a given child. Say what worked for you.
 - Keep proof ready for the ages and degrees.
