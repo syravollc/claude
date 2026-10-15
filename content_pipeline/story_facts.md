@@ -1,55 +1,55 @@
 # Story facts (the ONLY personal facts the AI may use)
 
-Facts below were given by the author. Items marked [FILL] are still missing and block generation until filled with true details.
-Items marked (optional) do not block. Never publish anything you cannot back up with documents.
+All facts below were given by the author. Items marked (optional) do not block generation.
+Never publish a claim you cannot back up with documents. The author can show: diploma, transcript, degree proof.
 
-## Timeline (given by the author)
+## Timeline
 - Pulled out of in-person school in 3rd grade because in-person classes were not working for me.
-- Homeschooled from then on; worked at my own pace.
-- Finished all high school classes quickly and graduated high school at age 13.
-- Associate degree at age 15.
-- Bachelor's degree at age 17.
-- How high school was completed (program, diploma source, tests): [FILL]
-- College(s) and how I enrolled (dual enrollment, community college, online, etc.): [FILL]
-- Associate degree and bachelor's degree fields, schools: [FILL]
-- Years/dates (so the timeline can be shown honestly): [FILL]
+- Completed high school through FLVS (Florida Virtual School), graduating in 2021 at age 13.
+- Associate degree in political science from Palm Beach State College, 2023, at age 15.
+- Transferred to Florida Atlantic University (FAU); bachelor's degree in political science, 2025, at age 17.
+- Currently pursuing a master's degree in political science.
+- Accuracy note: describe FLVS exactly as it was (check whether it was FLVS Flex or Full Time and say so), because homeschool audiences notice the difference between home education and virtual public school. [VERIFY]
 
-## What homeschooling gave me (given by the author)
+## What was wrong with in-person school for me
+- It was one linear, one-sided learning style that did not fit me, and I struggled to adapt to it.
+
+## What homeschooling gave me
 - Working at my own pace.
 - Learning more about myself.
 - Time to study different ideas I was interested in.
 - Many doors and possibilities opened that I could walk through.
+- Because I gave my parents feedback on my experience (what worked, what did not), we could build the experience around me.
 
-## Important message (given by the author)
-- Graduating early does not have to be the only outcome. There are many other things a homeschooler can do and many other advantages to homeschooling.
+## "The right way" to homeschool (my definition)
+- Curate the experience around the child and their learning style.
+- Ask the child for feedback on what works and what does not, and adjust.
+- Example of what that can look like: whether a child prefers learning face to face with an instructor, online with an instructor, or would rather skip online lectures entirely. That is one example among many.
 
-## Socialization (given by the author)
+## What I saw families get wrong when they did not fully embrace it
+- They taught their children in the same linear, one-sided way they would have learned in person school, instead of adapting the homeschool experience around the child.
+- Do not identify any real family. Describe the pattern only.
+
+## Important message
+- Graduating early does not have to be the only outcome. Homeschooling has many other possible paths and advantages.
+
+## Socialization
 - I had as much social life as other kids, or more, while homeschooled.
 - I took part in local high school clubs and organizations and church organizations.
-- Names of specific clubs/organizations and what I did there (optional): [FILL]
-
-## What I have seen firsthand (given by the author)
-- I have seen families go through the homeschool experience without fully embracing what it can really be.
-- Do not identify any real family. Describe patterns only.
-- The patterns I saw (what they did or did not do): [FILL]
-
-## My view of doing it "the right way" (given by the author, needs definition)
-- I believe the best results happen when homeschooling is done the right way.
-- What "the right way" means to me, in concrete terms (structure, goals, involvement, community, etc.): [FILL]
+- Names of specific clubs/organizations (optional): not provided yet.
 
 ## What it was actually like
-- What helped most: [FILL]
-- The hardest part: [FILL]
-- A moment I almost quit or slowed down (optional): [FILL]
-- What my parents did well: [FILL]
-- What I would change: [FILL]
+- Hardest part: the transition from in-person school to online school. I hated the first year.
+- What helped most: having an online instructor while being able to work at my own pace.
+- What I would change: the way my days were structured.
+- What my parents did well: they listened to my feedback and helped build the experience around me.
+- How my days were structured, and what I would do differently (optional): not provided yet.
 
-## What I do not want said (topics or details to keep out)
-- [FILL, or write "none"]
+## What I do not want said
+- Nothing stated. Do not share private details about my parents or other families.
 
 ## Voice notes
-- Warm, personal, relatable. Words I use: [FILL]
-- Words I would never use: [FILL]
+- Warm, personal, relatable. Open about the hard parts. No guarantees and no talking down to families who do it differently.
 
-## Proof I can show (diploma, transcripts, degrees; blur personal details)
-- [FILL]
+## Proof I can show
+- High school diploma, college transcripts, and degree proof (blur personal details when shown publicly).
