@@ -6,6 +6,7 @@ Commands:
   review                            list drafts with check results
   approve ID [ID...]                mark drafts approved (human decision)
   reject ID [ID...]
+  teleprompter                      build export/teleprompter.html from face-video drafts
   export --start YYYY-MM-DD         write approved drafts to export/schedule.csv
                                     for bulk upload to a scheduling tool
 
@@ -17,7 +18,7 @@ from pathlib import Path
 
 HERE = Path(__file__).parent
 QUEUE = HERE / "queue"; EXPORT = HERE / "export"
-PLATFORMS = ["short_video", "short_video", "carousel_or_post", "short_video"]  # 4 posts a week
+PLATFORMS = ["face_video", "animated_video", "face_video", "animated_video"]  # 4 posts a week: 2 on-camera, 2 faceless animated
 BANNED = [r"guarantee", r"\bcure\b", r"graduate (by|at) 1\d.*(you|your child) (can|will)", r"\bproven\b",
           r"100%", r"doctor|diagnos|therapy|medication", r"get rich|passive income"]
 DISCLOSURE = "Drafted with AI, reviewed and edited by me."
@@ -47,7 +48,11 @@ SYSTEM = ("You write warm, personal, relatable content for homeschool parents an
           "If a fact you need is missing, write [NEEDS FACT: ...] instead of guessing.")
 
 def make_prompt(topic, fmt, facts_text):
-    shapes = {"short_video": ("A faceless ANIMATED short video storyboard, 30-45 seconds, 5-7 scenes. For each scene give: "
+    shapes = {"face_video": ("A TELEPROMPTER script for the author to read on camera, 30-45 seconds (90-130 words). "
+                           "Short spoken lines, one idea per line, warm and conversational, no stage directions inside lines. "
+                           "Mark pauses as [pause]. After the script add: HOOK TEXT (on-screen, max 8 words), "
+                           "2 B-ROLL/OVERLAY ideas, and a caption with 3 hashtags. Invite viewers to the free checklist at the end."),
+              "animated_video": ("A faceless ANIMATED short video storyboard, 30-45 seconds, 5-7 scenes. For each scene give: "
                               "SCENE n (seconds) | NARRATION (spoken words) | VISUAL (simple animation: illustrated characters, "
                               "motion graphics, timelines, text cards; no real people or faces) | ON-SCREEN TEXT. "
                               "First scene is a hook. Last scene invites to the free checklist. Then a caption with 3 hashtags."),
@@ -90,6 +95,26 @@ def setstatus(ids, status):
             sys.exit(f"{i} has flags {q[i]['flags']}; edit the draft and clear 'flags' yourself to approve.")
         q[i]["status"] = status; save(q[i]); print(i, status)
 
+def teleprompter(a):
+    """Build a large-type, auto-scrolling, printable page from face_video drafts."""
+    EXPORT.mkdir(exist_ok=True)
+    items = [d for d in load().values() if d["format"] == "face_video" and d["status"] in ("draft", "approved")]
+    import html
+    body = "".join(f"<section><h2>{html.escape(d['id'])}: {html.escape(d['topic'])}</h2>"
+                   f"<pre>{html.escape(d['text'])}</pre></section>" for d in items)
+    page = ("<!doctype html><meta charset=utf-8><title>Teleprompter</title><style>"
+            "body{font-family:Arial,sans-serif;background:#111;color:#fff;margin:0;padding:24px;font-size:44px;line-height:1.5}"
+            "pre{white-space:pre-wrap;font:inherit}h2{font-size:22px;color:#8cf}section{margin-bottom:80px}"
+            "#bar{position:fixed;top:8px;right:8px;font-size:16px}button{font-size:16px;margin-left:6px}"
+            "@media print{body{background:#fff;color:#000;font-size:20px}h2{color:#000}#bar{display:none}"
+            "section{page-break-after:always}}</style>"
+            "<div id=bar><button onclick=go()>Scroll</button><button onclick=stop()>Stop</button>"
+            "<button onclick=sp(-1)>Slower</button><button onclick=sp(1)>Faster</button></div>" + body +
+            "<script>let t=null,v=1;function go(){stop();t=setInterval(()=>scrollBy(0,v),30)}"
+            "function stop(){clearInterval(t)}function sp(d){v=Math.max(0.5,v+d*0.5);if(t)go()}</script>")
+    (EXPORT / "teleprompter.html").write_text(page)
+    print(f"wrote export/teleprompter.html with {len(items)} face-video scripts (open in a browser; Print gives a paper copy)")
+
 def export(a):
     EXPORT.mkdir(exist_ok=True)
     day = dt.date.fromisoformat(a.start); rows = []
@@ -106,7 +131,8 @@ if __name__ == "__main__":
     g = s.add_parser("generate"); g.add_argument("--week", type=int, default=1); g.add_argument("--dry-run", action="store_true")
     s.add_parser("review")
     for n in ("approve", "reject"): x = s.add_parser(n); x.add_argument("ids", nargs="+")
+    s.add_parser("teleprompter")
     e = s.add_parser("export"); e.add_argument("--start", required=True)
     a = p.parse_args()
     {"generate": generate, "review": review, "approve": lambda a: setstatus(a.ids, "approved"),
-     "reject": lambda a: setstatus(a.ids, "rejected"), "export": export}[a.cmd](a)
+     "reject": lambda a: setstatus(a.ids, "rejected"), "export": export, "teleprompter": teleprompter}[a.cmd](a)

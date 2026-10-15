@@ -2,7 +2,22 @@
 
 AI drafts. A human approves. A scheduling tool publishes. Nothing in this folder posts anywhere or touches your accounts.
 
-## Weekly routine (about 30-45 minutes)
+## Content mix: 2 on-camera + 2 faceless animated per week
+| Post | Format | Made by |
+|---|---|---|
+| 1, 3 | Face video | AI writes a teleprompter script; you record it; `edit_video.py` edits it |
+| 2, 4 | Faceless animated | AI writes a storyboard; you assemble it in an animation tool (Canva, CapCut or similar) |
+
+Face-video flow:
+1. `python3 pipeline.py generate --week N` writes the scripts into `queue/`.
+2. Review and edit the scripts, then `python3 pipeline.py teleprompter` builds `export/teleprompter.html`: big text, scroll button with speed controls, and a print layout for a paper copy.
+3. Record on your phone (vertical, quiet room, window light in front of you).
+4. `python3 edit_video.py raw.mp4 ready.mp4` cuts the pauses, crops to 9:16, evens out loudness, and burns captions (captions need `pip install faster-whisper`, or pass your own `--srt`). Needs ffmpeg installed.
+5. Watch the result once before it is posted. The editor does not add music, B-roll or effects; for those use CapCut/Canva on top.
+
+What "polished editing, automatic" really means here: pause-cutting, framing, loudness and captions are automatic and tested on a synthetic clip. Taste-level editing (music, transitions, B-roll) still needs a person or a paid editor tool.
+
+## Weekly routine (about 30-45 minutes of review, plus recording time)
 1. `python3 pipeline.py generate --week N` (4 drafts: 3 short-video scripts, 1 post/carousel; plus write the weekly email yourself or from a draft)
 2. `python3 pipeline.py review`, then read and edit each file in `queue/`.
 3. `python3 pipeline.py approve ID ...` for the ones you are happy to put your name on.
@@ -39,6 +54,7 @@ AI drafts. A human approves. A scheduling tool publishes. Nothing in this folder
 Scheduler options to check: Buffer, Metricool, Later, or each platform's own scheduler. I have not verified current prices or whether each accepts CSV bulk upload.
 
 ## Not automated on purpose
-- Recording your voiceover (recommended) and final video assembly/export.
+- Recording the on-camera videos and assembling the animated ones.
+- Final watch-through of every video before posting.
 - Replying to comments and DMs.
 - Anything about money: ads, refunds, pricing.
