@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Landing page preview</title>
+<style>
+:root{--bg:#fbf8f3;--fg:#2b2622;--muted:#6b625a;--card:#fff;--line:#e7dfd4;--accent:#c4572d;--accent-fg:#fff;--soft:#f3ebe0}
+@media(prefers-color-scheme:dark){:root{--bg:#1c1917;--fg:#f3ece3;--muted:#b3a99e;--card:#26211e;--line:#3a332e;--accent:#e07a50;--accent-fg:#1c1917;--soft:#2b2521}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 Georgia,'Times New Roman',serif}
+.wrap{max-width:760px;margin:0 auto;padding:0 20px}
+.note{background:#fff3b0;color:#4a3b00;font:14px/1.4 Arial,sans-serif;padding:10px 16px;text-align:center}
+nav{padding:18px 0;font:600 15px Arial,sans-serif;display:flex;justify-content:space-between;color:var(--muted)}
+h1{font-size:clamp(30px,6vw,46px);line-height:1.15;margin:30px 0 14px}
+h2{font-size:26px;margin:0 0 12px}
+.lead{font-size:20px;color:var(--muted)}
+.btn{display:inline-block;background:var(--accent);color:var(--accent-fg);font:600 16px Arial,sans-serif;padding:14px 24px;border-radius:10px;text-decoration:none;border:0;cursor:pointer}
+.btn.alt{background:transparent;color:var(--accent);border:2px solid var(--accent)}
+section{padding:36px 0;border-top:1px solid var(--line)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px;margin:14px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.timeline{display:flex;flex-wrap:wrap;gap:10px;margin:18px 0}
+.tl{background:var(--soft);border-radius:12px;padding:12px 16px;flex:1 1 130px;font:14px/1.4 Arial,sans-serif}
+.tl b{display:block;font-size:20px;font-family:Georgia,serif}
+.proof{border:2px dashed var(--line);border-radius:12px;padding:26px;text-align:center;color:var(--muted);font:14px Arial,sans-serif}
+.ph{background:#ffe0d6;color:#8a2c0d;padding:0 4px;border-radius:4px;font:14px Arial,sans-serif}
+@media(prefers-color-scheme:dark){.ph{background:#4a2517;color:#ffc9b5}}
+input[type=email]{width:100%;padding:13px;border:1px solid var(--line);border-radius:10px;font-size:16px;background:var(--card);color:var(--fg);margin:8px 0 12px}
+details{border-top:1px solid var(--line);padding:12px 0}summary{cursor:pointer;font-weight:bold}
+footer{padding:30px 0 50px;color:var(--muted);font:13px/1.5 Arial,sans-serif;border-top:1px solid var(--line)}
+</style></head><body>
+<div class="note">PREVIEW ONLY. Highlighted <span class="ph">[placeholders]</span> need your details. Buttons and forms don't work yet.</div>
+<div class="wrap">
+<nav><span><span class="ph">[NAME]</span></span><span>Free checklist &nbsp;·&nbsp; Work with me</span></nav>
+
+<h1>Homeschooling that fits your child, built by someone who lived it.</h1>
+<p class="lead">I left in-person school in third grade, graduated high school at 13, and finished my bachelor's at 17. Here's what worked, what was hard, and how to build a path that fits your family.</p>
+<p><a class="btn" href="#free">Get the free Readiness Check</a></p>
+<p style="color:var(--muted);font-size:15px"><i>Early graduation is one outcome, not the goal. This is about fit.</i></p>
+
+<section>
+<h2>Who I am</h2>
+<p>I'm <span class="ph">[NAME]</span>. When I was in third grade, in-person school wasn't working for me. It taught one way at one speed, and I couldn't adapt to it. My family pulled me out and we built learning around me: I told my parents what worked and what didn't, and we adjusted.</p>
+<div class="timeline">
+<div class="tl"><b>3rd grade</b>Left in-person school</div>
+<div class="tl"><b>2021 · age 13</b>High school, FLVS Flex</div>
+<div class="tl"><b>2023 · age 15</b>Associate, Palm Beach State</div>
+<div class="tl"><b>2025 · age 17</b>Bachelor's, FAU</div>
+<div class="tl"><b>Now</b>Master's in progress</div>
+</div>
+<p style="color:var(--muted);font-size:15px">Political science at each level.</p>
+<div class="proof">Proof image goes here: diploma / transcript / degree, with personal details blurred.</div>
+</section>
+
+<section>
+<h2>What I've learned</h2>
+<div class="grid">
+<div class="card"><b>It can bend to the child.</b><br>Face to face with an instructor, online with one, or no lectures at all. Build around how your child learns.</div>
+<div class="card"><b>Ask for feedback, then use it.</b><br>I had a say in my own education. That changed everything.</div>
+<div class="card"><b>Social life needs a plan.</b><br>I was in local high school clubs, organizations and church groups, and had as much social life as anyone, maybe more.</div>
+<div class="card"><b>Starting hard is normal.</b><br>My first year of online school was the hardest part. It got better.</div>
+<div class="card"><b>Don't recreate school at home.</b><br>I've seen families run homeschool just like in-person school, in the living room. It doesn't have to be that way.</div>
+</div>
+</section>
+
+<section id="free">
+<h2>Start here (free)</h2>
+<div class="card">
+<b>The 10-Question Readiness Check</b>
+<p>Two pages and a short conversation guide for you and your learner.</p>
+<input type="email" placeholder="Your email" aria-label="Email">
+<button class="btn" type="button">Send it to me</button>
+<p style="font-size:13px;color:var(--muted)">No spam. Unsubscribe any time.</p>
+</div>
+</section>
+
+<section>
+<h2>Work with me</h2>
+<div class="grid">
+<div class="card"><b>Guide + planner</b><br><i>"Early, Not Rushed"</i> (coming soon): a warm, practical guide for parents and students, plus a printable planner.<br><br><a class="btn alt" href="#">Join the waitlist</a></div>
+<div class="card"><b>1-on-1 Roadmap session</b><br>60 minutes to talk through your family's situation, with a written roadmap afterward.<br><br><a class="btn" href="#">Book a session</a></div>
+</div>
+</section>
+
+<section>
+<h2>Questions</h2>
+<details><summary>Are you a teacher or counselor?</summary><p>No. I'm a person with lived experience and a political science background. I share what worked for me and help families think things through. I don't give medical, psychological or legal advice.</p></details>
+<details><summary>Will my child be able to graduate early?</summary><p>Maybe. It depends on the child and the family. Early graduation is one possible outcome, not the goal for everyone.</p></details>
+<details><summary>What about socialization?</summary><p>It was a big part of my homeschool life and it can be for yours. We'll talk about how.</p></details>
+<details><summary>Is my information private?</summary><p>Yes. <span class="ph">[Link to privacy policy]</span>. I don't need details about your child beyond what you choose to share.</p></details>
+</section>
+
+<footer>Privacy · Terms · Refund policy · Contact<br>General information from personal experience. Not educational, psychological, medical or legal advice. Results vary.</footer>
+</div></body></html>
