@@ -7,7 +7,9 @@
 A good plan is one you can actually live in. This chapter is about the shape of a week that includes learning, rest, friends and fun.
 
 ## What I'd change
-The thing I'd change about my own experience is **how my days were structured**. [ADD: what the structure was, what didn't work, and what you'd do now. This is the most useful paragraph in the chapter. Be specific.]
+**My own rhythm:** I worked from home. My day started at 9 and ended around 2, which saved a lot of free time for other school activities and for things I was interested in, whether that was a trip to the park or something else.
+
+The schedule itself worked. What I'd change is my **outlook**. At school, the classroom told me where to be and what to do all day. Online, I had lecture times and assignments, and after that I was free. I wasn't used to that freedom, and I had to learn to use it well. If I could go back, I'd treat the free afternoons as a gift to plan around, not as a gap. If your child is coming from a classroom, talk about this *before* the first day: what do we do with the free time?
 
 ## Principles
 1. **Start with the learner.** Morning person or night owl? Short bursts or long blocks? Ask.

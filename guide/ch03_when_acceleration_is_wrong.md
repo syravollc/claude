@@ -33,7 +33,7 @@ You don't have to choose between "fast" and "failing." There's a lot of room in 
 - **Build the social side.** Clubs, community groups, church or volunteer groups.
 - **Take a planned break.** Rest is part of learning.
 
-My own path included moving quickly, but it also included space to follow ideas I was curious about. [ADD: one thing you explored that wasn't "required."]
+My own path included moving quickly, but it also included space to follow ideas I was curious about. With school ending around 2 each day, I had the rest of the afternoon for other school activities and things I was interested in, whether that was a trip to the park or something else. [ADD, optional: one specific interest you explored.]
 
 ## Pausing doesn't mean you failed
 

@@ -8,7 +8,7 @@
 Dual enrollment (sometimes called early college) means taking college courses while still in high school, so the credits can count toward both. Rules about who qualifies, who pays and how credits transfer vary widely. [VERIFY]
 
 ## My path
-I completed high school at 13 through FLVS Flex. I then earned an associate degree in political science from Palm Beach State College (2023, age 15) and transferred to Florida Atlantic University, where I earned a bachelor's degree in political science (2025, age 17). I'm now working on a master's degree. [ADD: how you actually enrolled at Palm Beach State, whether it was dual enrollment, admission as a student, or another route, and what the process was like.]
+I completed high school at 13 through FLVS Flex. I then earned an associate degree in political science from Palm Beach State College (2023, age 15) and transferred to Florida Atlantic University, where I earned a bachelor's degree in political science (2025, age 17). I'm now working on a master's degree. My route to Palm Beach State was not dual enrollment. I took the PERT test, fully graduated high school, and enrolled that way. It wasn't hard to get in at my age, because on paper I had satisfied everything required. I took most of my Palm Beach State classes online, though I still took part in things on campus. [VERIFY: describe the PERT test and admission requirements from the college's current official pages, since they change.]
 
 ## Questions to ask the college (before you commit)
 1. What are the age and grade requirements, and are there exceptions? [VERIFY]
@@ -20,6 +20,9 @@ I completed high school at 13 through FLVS Flex. I then earned an associate degr
 7. What are the rules about parents being involved when the student is a minor?
 8. How does it affect financial aid and future admissions? [VERIFY]
 9. What's the withdrawal policy if it's not working?
+
+## Note on a different route
+My path, finishing high school first and then enrolling as a regular student, is different from dual enrollment. Both exist. Ask the college which options are available and which fit your child. [VERIFY]
 
 ## What changes when a young student enters college
 - **Expectations are adult.** Deadlines, syllabi and independence.

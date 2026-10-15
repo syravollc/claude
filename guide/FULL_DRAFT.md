@@ -14,7 +14,7 @@ In third grade, I got pulled out of in-person school.
 
 It wasn't because I couldn't learn. It was because the way school was set up wasn't working for me. Learning in a classroom was one linear, one-sided style, and I couldn't adapt to it. It didn't fit how I learned, and no amount of trying to squeeze myself into it changed that.
 
-[ADD: one small, true memory of what that felt like in class, if you have one. A feeling is enough. For example, how you felt on a normal day. Skip it if you don't remember.]
+Because I was pulled out in the middle of the school year, I didn't get to say goodbye to most of my friends. That was the first cost, and I didn't understand it yet. [ADD, optional: one small memory of what class felt like.]
 
 My family decided to try something different. That decision changed my life.
 
@@ -28,6 +28,10 @@ The biggest difference wasn't speed. It was **fit**.
 - And I had a **voice** in it. I gave my parents feedback on my experience, what worked for me and what didn't, and together we built the experience around me.
 
 That last point matters more than anything else in this book. I wasn't just handed a curriculum. My learning was something my family and I kept adjusting, on purpose.
+
+## A conversation that mattered
+
+At one point I told my parents something hard: that I missed being in school, and that it felt like I was missing a piece of my childhood. They could have taken it as criticism. They didn't. They understood it was a process they were still learning too, and they listened. I'm one of three brothers, and my other two brothers later followed the same path, so in a way I was going in blindly with my parents and paving the way for them. Having parents who could hear that and not get defensive is a big part of why this worked.
 
 ## The timeline
 
@@ -51,19 +55,19 @@ It was *my* outcome. Homeschooling can lead to many other places: more time to e
 
 I'd be lying if I made this sound smooth.
 
-**The hardest part was the transition.** Going from in-person school to online school was a big change, and I hated that first year. [ADD: what specifically you hated about it, for example the lack of structure, the change in routine, missing the classroom, whatever is true.]
+**The hardest part was the transition.** Going from in-person school to online school was a big change, and I hated that first year. Part of it was the structure, or lack of it. At school, the classroom told me where to be and what to do all day. Online, I just had lecture times and assignments, and once they were done, I was free for the rest of the day. I wasn't used to that freedom. The other part was friends. I missed the social side, and for a while I honestly didn't think it existed. My parents didn't know yet what was out there to sign me up for, and it took about a year of settling into online school before they found the activities and local groups that filled that gap.
 
 What eventually helped the most was having **an online instructor while still being able to work at my own pace**. I wasn't alone with a pile of material, and I wasn't stuck on someone else's schedule either. That combination worked for me. It might not be your combination, and that's the point.
 
-And there's one thing I'd change: **the way my days were structured.** [ADD: what your days looked like, and what you would do differently. This is the most useful part of the chapter for parents. Even two honest sentences will help.]
+My days were simple: I worked from home, starting at 9 and finishing around 2. That left the rest of the day for other school activities and whatever I was interested in, whether that was a trip to the park or something else. I wouldn't change that schedule. If I could change one thing, it would be my **outlook** going in: I didn't know yet how to use that freedom, and I took longer than I needed to treat it as a gift instead of something missing.
 
 ## "But what about friends?"
 
 If you're a parent, this is probably the question on your mind. It was on a lot of people's minds about me.
 
-Here's my honest answer: **I had as much social life as other kids, maybe more.** I was part of local high school clubs and organizations, and I was involved in church organizations. [ADD: one real example, a club, a role, or an event.]
+Here's my honest answer: **I had as much social life as other kids, maybe more.** I was part of local high school clubs and organizations, and I was involved in church organizations. It wasn't there at the start, though. In the first year I missed my friends and thought homeschool social life might not exist. It took my parents about a year to learn what was available locally and sign me up. Once they did, my social life filled in.
 
-It didn't happen automatically. It happened because it was part of the plan, not an afterthought. I'll show you how to build that in Chapter 8.
+It didn't happen automatically. It happened because it was part of the plan, not an afterthought. I'll show you how to build that in Chapter 8, and I'll tell you the part nobody tells you: it can take a while.
 
 ## What I saw other families do
 
@@ -157,7 +161,7 @@ Signs it might be there:
 - They have people they can talk to, friends, mentors, family.
 - They actually *want* it, not just agree because you do.
 
-For me, the second kind was shaped a lot by how my family worked. I gave feedback on what worked and what didn't, and my parents listened. [ADD: one moment where you told your parents something wasn't working and they changed it. Even a small one.]
+For me, the second kind was shaped a lot by how my family worked. I gave feedback on what worked and what didn't, and my parents listened. One moment I remember: I told my parents that I missed being in school and felt like I was missing a piece of my childhood. They didn't get defensive or feel they'd done something wrong. They understood it was a process they were still learning about, and we worked on it together. That kind of honesty is only possible when the child feels safe saying it.
 
 ## Readiness vs. pressure
 
@@ -199,7 +203,7 @@ I can only speak to my own case, but here's what I think mattered:
 4. **I had a social life.** I was in local high school clubs and organizations and church groups, so my days weren't only school.
 5. **It was hard at first, and that was allowed.** I hated my first year of online school. Nobody pretended I shouldn't.
 
-And one thing I'd change: **how my days were structured.** [ADD: a sentence or two on what was off about the structure, too packed, too loose, not enough breaks, whatever is true.]
+And one thing I'd change: **my outlook going in.** My days were simple, 9 to about 2, then free time. But after years of a classroom telling me where to be, I wasn't used to that much freedom, and it took me a while to learn to use it well. If your child is coming from a classroom, expect an adjustment period.
 
 ## A simple way to check in, every month
 
@@ -285,7 +289,7 @@ You don't have to choose between "fast" and "failing." There's a lot of room in 
 - **Build the social side.** Clubs, community groups, church or volunteer groups.
 - **Take a planned break.** Rest is part of learning.
 
-My own path included moving quickly, but it also included space to follow ideas I was curious about. [ADD: one thing you explored that wasn't "required."]
+My own path included moving quickly, but it also included space to follow ideas I was curious about. With school ending around 2 each day, I had the rest of the afternoon for other school activities and things I was interested in, whether that was a trip to the park or something else. [ADD, optional: one specific interest you explored.]
 
 ## Pausing doesn't mean you failed
 
@@ -498,7 +502,7 @@ Keep your own copy of things you're proud of. You'll be glad you did.
 Dual enrollment (sometimes called early college) means taking college courses while still in high school, so the credits can count toward both. Rules about who qualifies, who pays and how credits transfer vary widely. [VERIFY]
 
 ## My path
-I completed high school at 13 through FLVS Flex. I then earned an associate degree in political science from Palm Beach State College (2023, age 15) and transferred to Florida Atlantic University, where I earned a bachelor's degree in political science (2025, age 17). I'm now working on a master's degree. [ADD: how you actually enrolled at Palm Beach State, whether it was dual enrollment, admission as a student, or another route, and what the process was like.]
+I completed high school at 13 through FLVS Flex. I then earned an associate degree in political science from Palm Beach State College (2023, age 15) and transferred to Florida Atlantic University, where I earned a bachelor's degree in political science (2025, age 17). I'm now working on a master's degree. My route to Palm Beach State was not dual enrollment. I took the PERT test, fully graduated high school, and enrolled that way. It wasn't hard to get in at my age, because on paper I had satisfied everything required. I took most of my Palm Beach State classes online, though I still took part in things on campus. [VERIFY: describe the PERT test and admission requirements from the college's current official pages, since they change.]
 
 ## Questions to ask the college (before you commit)
 1. What are the age and grade requirements, and are there exceptions? [VERIFY]
@@ -510,6 +514,9 @@ I completed high school at 13 through FLVS Flex. I then earned an associate degr
 7. What are the rules about parents being involved when the student is a minor?
 8. How does it affect financial aid and future admissions? [VERIFY]
 9. What's the withdrawal policy if it's not working?
+
+## Note on a different route
+My path, finishing high school first and then enrolling as a regular student, is different from dual enrollment. Both exist. Ask the college which options are available and which fit your child. [VERIFY]
 
 ## What changes when a young student enters college
 - **Expectations are adult.** Deadlines, syllabi and independence.
@@ -543,7 +550,7 @@ Print the nine questions above and write the answers next to each, with the date
 Two questions come up more than any others: **"What about friends?"** and **"What's it like being the youngest?"**
 
 ## Part 1: Homeschool and social life
-My honest answer: I had as much social life as other kids, maybe more. I was part of local high school clubs and organizations and church organizations. [ADD: one or two specifics, what you did, who you met, a moment you remember.]
+My honest answer: I had as much social life as other kids, maybe more. I was part of local high school clubs and organizations and church organizations. It also wasn't there at the start. I was pulled out in the middle of the school year, so I didn't get to say goodbye to most of my friends, and in the first year I honestly thought homeschool social life didn't exist. My parents didn't yet know what they could sign me up for. It took about a year of settling into online school for them to learn about local activities and groups that filled the gap. After that, I was involved in local high school clubs and organizations and in church organizations. If you're in that first year and it feels empty, that's normal. Keep looking.
 
 It wasn't automatic. It happened because we planned for it. Social life isn't the thing that happens *in* a school building; it happens when kids have regular, shared time with others around something they care about.
 
@@ -564,7 +571,13 @@ It wasn't automatic. It happened because we planned for it. Social life isn't th
 ## Part 2: Being young among older students
 This is the part that worries parents most about acceleration, and it should be taken seriously.
 
-[ADD: what it was actually like for you, being 15 at Palm Beach State and 17 at FAU. Who were your friends, how did classmates react, what was hard, what helped. Be honest, including the awkward parts.]
+**At Palm Beach State (starting at 13).** Being on campus at 13 wasn't bad. I took most of my classes online but still took part in things on campus, and most of the students there were college freshmen, so I had no problem fitting in. It was a matter of adapting to the environment and finding friend groups where we shared similar interests.
+
+**At FAU (after finishing my AA at 15).** FAU was a different ballpark. It took some time, but I found my footing. FAU's campus actually had a high school on it, so I made friends with a lot of high schoolers. I was also a regular member of clubs and organizations like Konbit Kreyòl and the Black Student Union, and I made a lot of friends there.
+
+There was definitely a shock factor when I told people how old I was. But because of my path, I matured quickly at a young age, and that helped me fit in. It was challenging at times, especially taking in-person classes at FAU, because it was the first time in years I'd been in a classroom in person, and it took adaptation.
+
+**The internship.** In my second-to-last semester, I took part in a Florida legislative internship program with the university. I spent the legislative session in Tallahassee, working with a state representative and living on my own. It was a new step for me, a professional environment, and my age didn't get in the way.
 
 ### Things that tend to help (common sense, not research)
 - A parent or trusted adult the student can talk to without judgment.
@@ -608,7 +621,9 @@ You don't have to be the same as everyone to belong. And it's okay to say, "I'm 
 A good plan is one you can actually live in. This chapter is about the shape of a week that includes learning, rest, friends and fun.
 
 ## What I'd change
-The thing I'd change about my own experience is **how my days were structured**. [ADD: what the structure was, what didn't work, and what you'd do now. This is the most useful paragraph in the chapter. Be specific.]
+**My own rhythm:** I worked from home. My day started at 9 and ended around 2, which saved a lot of free time for other school activities and for things I was interested in, whether that was a trip to the park or something else.
+
+The schedule itself worked. What I'd change is my **outlook**. At school, the classroom told me where to be and what to do all day. Online, I had lecture times and assignments, and after that I was free. I wasn't used to that freedom, and I had to learn to use it well. If I could go back, I'd treat the free afternoons as a gift to plan around, not as a gap. If your child is coming from a classroom, talk about this *before* the first day: what do we do with the free time?
 
 ## Principles
 1. **Start with the learner.** Morning person or night owl? Short bursts or long blocks? Ask.
@@ -713,7 +728,7 @@ Things will go wrong. That doesn't mean the plan failed. It means you're in a re
 
 ## Common bumps and what to try
 
-**The hated first stretch.** A big change can feel awful at first. I hated my first year of online school. [ADD: how it changed, what helped, how long it took.] Give a change time, but check in often. If things aren't improving, adjust.
+**The hated first stretch.** A big change can feel awful at first. I hated my first year of online school. For me it was a mix of things: no classroom structure, just lecture times and assignments and then a lot of free time I wasn't used to, and missing my friends, because I'd been pulled out mid-year without a real goodbye. It took about a year of settling in, and that was largely because my parents needed that long to find the local activities and groups that filled the social gap. What helped was time, an online instructor, and eventually the social side coming together. Give a change time, but check in often. If things aren't improving, adjust.
 
 **Motivation drops.** Look at the cause: too hard, too easy, too much, no say, too lonely? Ask. Change one thing.
 

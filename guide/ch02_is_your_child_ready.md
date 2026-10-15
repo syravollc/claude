@@ -37,7 +37,7 @@ Signs it might be there:
 - They have people they can talk to, friends, mentors, family.
 - They actually *want* it, not just agree because you do.
 
-For me, the second kind was shaped a lot by how my family worked. I gave feedback on what worked and what didn't, and my parents listened. [ADD: one moment where you told your parents something wasn't working and they changed it. Even a small one.]
+For me, the second kind was shaped a lot by how my family worked. I gave feedback on what worked and what didn't, and my parents listened. One moment I remember: I told my parents that I missed being in school and felt like I was missing a piece of my childhood. They didn't get defensive or feel they'd done something wrong. They understood it was a process they were still learning about, and we worked on it together. That kind of honesty is only possible when the child feels safe saying it.
 
 ## Readiness vs. pressure
 
@@ -79,7 +79,7 @@ I can only speak to my own case, but here's what I think mattered:
 4. **I had a social life.** I was in local high school clubs and organizations and church groups, so my days weren't only school.
 5. **It was hard at first, and that was allowed.** I hated my first year of online school. Nobody pretended I shouldn't.
 
-And one thing I'd change: **how my days were structured.** [ADD: a sentence or two on what was off about the structure, too packed, too loose, not enough breaks, whatever is true.]
+And one thing I'd change: **my outlook going in.** My days were simple, 9 to about 2, then free time. But after years of a classroom telling me where to be, I wasn't used to that much freedom, and it took me a while to learn to use it well. If your child is coming from a classroom, expect an adjustment period.
 
 ## A simple way to check in, every month
 

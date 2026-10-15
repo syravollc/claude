@@ -7,7 +7,7 @@
 Two questions come up more than any others: **"What about friends?"** and **"What's it like being the youngest?"**
 
 ## Part 1: Homeschool and social life
-My honest answer: I had as much social life as other kids, maybe more. I was part of local high school clubs and organizations and church organizations. [ADD: one or two specifics, what you did, who you met, a moment you remember.]
+My honest answer: I had as much social life as other kids, maybe more. I was part of local high school clubs and organizations and church organizations. It also wasn't there at the start. I was pulled out in the middle of the school year, so I didn't get to say goodbye to most of my friends, and in the first year I honestly thought homeschool social life didn't exist. My parents didn't yet know what they could sign me up for. It took about a year of settling into online school for them to learn about local activities and groups that filled the gap. After that, I was involved in local high school clubs and organizations and in church organizations. If you're in that first year and it feels empty, that's normal. Keep looking.
 
 It wasn't automatic. It happened because we planned for it. Social life isn't the thing that happens *in* a school building; it happens when kids have regular, shared time with others around something they care about.
 
@@ -28,7 +28,13 @@ It wasn't automatic. It happened because we planned for it. Social life isn't th
 ## Part 2: Being young among older students
 This is the part that worries parents most about acceleration, and it should be taken seriously.
 
-[ADD: what it was actually like for you, being 15 at Palm Beach State and 17 at FAU. Who were your friends, how did classmates react, what was hard, what helped. Be honest, including the awkward parts.]
+**At Palm Beach State (starting at 13).** Being on campus at 13 wasn't bad. I took most of my classes online but still took part in things on campus, and most of the students there were college freshmen, so I had no problem fitting in. It was a matter of adapting to the environment and finding friend groups where we shared similar interests.
+
+**At FAU (after finishing my AA at 15).** FAU was a different ballpark. It took some time, but I found my footing. FAU's campus actually had a high school on it, so I made friends with a lot of high schoolers. I was also a regular member of clubs and organizations like Konbit Kreyòl and the Black Student Union, and I made a lot of friends there.
+
+There was definitely a shock factor when I told people how old I was. But because of my path, I matured quickly at a young age, and that helped me fit in. It was challenging at times, especially taking in-person classes at FAU, because it was the first time in years I'd been in a classroom in person, and it took adaptation.
+
+**The internship.** In my second-to-last semester, I took part in a Florida legislative internship program with the university. I spent the legislative session in Tallahassee, working with a state representative and living on my own. It was a new step for me, a professional environment, and my age didn't get in the way.
 
 ### Things that tend to help (common sense, not research)
 - A parent or trusted adult the student can talk to without judgment.

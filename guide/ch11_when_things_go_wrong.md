@@ -8,7 +8,7 @@ Things will go wrong. That doesn't mean the plan failed. It means you're in a re
 
 ## Common bumps and what to try
 
-**The hated first stretch.** A big change can feel awful at first. I hated my first year of online school. [ADD: how it changed, what helped, how long it took.] Give a change time, but check in often. If things aren't improving, adjust.
+**The hated first stretch.** A big change can feel awful at first. I hated my first year of online school. For me it was a mix of things: no classroom structure, just lecture times and assignments and then a lot of free time I wasn't used to, and missing my friends, because I'd been pulled out mid-year without a real goodbye. It took about a year of settling in, and that was largely because my parents needed that long to find the local activities and groups that filled the social gap. What helped was time, an online instructor, and eventually the social side coming together. Give a change time, but check in often. If things aren't improving, adjust.
 
 **Motivation drops.** Look at the cause: too hard, too easy, too much, no say, too lonely? Ask. Change one thing.
 

@@ -3,17 +3,105 @@
   "weekly_posts": 4,
   "weekly_email": 1,
   "topics": [
-    {"id": "t01", "title": "My timeline: high school at 13, college at 17", "angle": "story"},
-    {"id": "t02", "title": "How do you know if your child is ready? Academic vs emotional readiness", "angle": "advice"},
-    {"id": "t03", "title": "Signs you are pushing too fast", "angle": "advice"},
-    {"id": "t04", "title": "The hardest part of finishing school young", "angle": "story"},
-    {"id": "t05", "title": "What about friends and social life?", "angle": "story"},
-    {"id": "t06", "title": "Dual enrollment: questions to ask the college", "angle": "advice"},
-    {"id": "t07", "title": "Gaps in foundations: how to check", "angle": "advice"},
-    {"id": "t08", "title": "Keeping records and transcripts", "angle": "advice"},
-    {"id": "t09", "title": "A weekly rhythm that leaves room to breathe", "angle": "advice"},
-    {"id": "t10", "title": "When to slow down", "angle": "story"},
-    {"id": "t11", "title": "Using AI tools without losing the learning (for students)", "angle": "advice"},
-    {"id": "t12", "title": "What my parents did right (and a note to students)", "angle": "story"}
+    {
+      "id": "t01",
+      "title": "My timeline: high school at 13, college at 17",
+      "angle": "story"
+    },
+    {
+      "id": "t02",
+      "title": "How do you know if your child is ready? Academic vs emotional readiness",
+      "angle": "advice"
+    },
+    {
+      "id": "t03",
+      "title": "Signs you are pushing too fast",
+      "angle": "advice"
+    },
+    {
+      "id": "t04",
+      "title": "The hardest part of finishing school young",
+      "angle": "story"
+    },
+    {
+      "id": "t05",
+      "title": "What about friends and social life?",
+      "angle": "story"
+    },
+    {
+      "id": "t06",
+      "title": "Dual enrollment: questions to ask the college",
+      "angle": "advice"
+    },
+    {
+      "id": "t07",
+      "title": "Gaps in foundations: how to check",
+      "angle": "advice"
+    },
+    {
+      "id": "t08",
+      "title": "Keeping records and transcripts",
+      "angle": "advice"
+    },
+    {
+      "id": "t09",
+      "title": "A weekly rhythm that leaves room to breathe",
+      "angle": "advice"
+    },
+    {
+      "id": "t10",
+      "title": "When to slow down",
+      "angle": "story"
+    },
+    {
+      "id": "t11",
+      "title": "Using AI tools without losing the learning (for students)",
+      "angle": "advice"
+    },
+    {
+      "id": "t12",
+      "title": "What my parents did right (and a note to students)",
+      "angle": "story"
+    },
+    {
+      "id": "t13",
+      "title": "I missed being in school (and what my parents did when I told them)",
+      "angle": "story"
+    },
+    {
+      "id": "t14",
+      "title": "Pulled out mid-year: the friends I didn't get to say goodbye to",
+      "angle": "story"
+    },
+    {
+      "id": "t15",
+      "title": "The first year of online school: so much freedom I didn't know what to do with",
+      "angle": "story"
+    },
+    {
+      "id": "t16",
+      "title": "A homeschool day: 9 to 2, then free time",
+      "angle": "story"
+    },
+    {
+      "id": "t17",
+      "title": "College at 13: how I enrolled (PERT test)",
+      "angle": "story"
+    },
+    {
+      "id": "t18",
+      "title": "Telling college classmates my age",
+      "angle": "story"
+    },
+    {
+      "id": "t19",
+      "title": "My legislative internship in Tallahassee",
+      "angle": "story"
+    },
+    {
+      "id": "t20",
+      "title": "Paving the way for my two brothers",
+      "angle": "story"
+    }
   ]
 }
