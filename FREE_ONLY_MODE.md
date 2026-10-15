@@ -15,7 +15,7 @@ Rule: nothing in this mode costs money. Anything that would is marked and skippe
 | Writing scripts | Written by hand/with this chat. The `pipeline.py generate` command **uses a paid API key, so skip it** | |
 
 ## How the plan changes
-- **Sessions become free conversations first** (15-30 min), no payment. Use them to learn and to earn permission-based testimonials. Charge later once people ask for more.
+- **Sessions become free conversations first (see `launch/free_chat_offer.md`)** (15-30 min), no payment. Use them to learn and to earn permission-based testimonials. Charge later once people ask for more.
 - **Guide:** finish it first, then decide whether to sell or give it away as the email signup bonus.
 - **Domain:** none. Use the free store/landing page URLs.
 - **Time is the real cost:** about 5-8 hours a week.
