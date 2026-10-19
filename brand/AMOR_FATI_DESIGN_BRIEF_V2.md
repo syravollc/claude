@@ -104,3 +104,35 @@ Palette: bone white and oxblood red, plus an optional third ink in muted ember o
 
 - This level of art needs a skilled illustrator and a producer that can print large areas, sleeves and shoulders, and possibly add contrast stitching. None of this is verified for any provider.
 - A piece like this suggests limited, numbered drops at a higher price with a printed story card, not a commodity tee. Prices and demand are untested.
+
+## Round 4 review (2026-10-19) and v5 direction: restraint
+
+Round 4 output (back, shoulder, front): much richer and clearly on the right path. Problems: too busy (smoke covers the whole back and both arms, embers everywhere); the hero image (old hands holding the burning heart) is small and lost at the bottom; "IV. YOU LOVE IT." appears twice; smoke also covers the front sleeves.
+
+Rules for v5:
+- One hero: the old hands holding the burning heart, larger, lower-center of the back.
+- About 60% of the garment stays bare cloth. Smoke only as a restrained band across the upper back and shoulder tops; no smoke on the front or the front of the sleeves.
+- The red thread is the only element that connects everything. Embers are sparse and only near the heart.
+- Each phase text appears exactly once.
+- Front: the brand mark only, small, left chest.
+- Skull variant ("death smiles"): the upper-back smoke forms a faint, softly smiling skull instead of generic clouds. Test as variant B; variant A keeps plain clouds.
+
+## Brand name (draft, 2026-10-19)
+
+Name search done by web search only. Web search cannot confirm a name is free; only the official USPTO search (tmsearch.uspto.gov, Class 25), a domain and social-handle check, and ideally a trademark attorney can.
+
+| Candidate | What the search found | Status |
+|---|---|---|
+| ANANKE | Existing menswear label (Mumbai) and a US clothing trademark filing by ANANKE LA LLC (Oct 2024) | Rejected: conflict |
+| KLOTHO | Greek fashion label and a US application covering hoodies and jackets | Rejected: conflict |
+| WYRD | WYRD WEAR application (April 2025) for t-shirts and hoodies; also similar WYR and WZRD brands | Rejected: conflict |
+| PARCA | Parcae Apparel trademark application and By Parra brand | Rejected: too close |
+| KAIROS | Several unrelated apparel businesses (Philippines, Enduring Kairos) | Weak: crowded |
+| FATUM | No apparel hit found (weak search) | Backup |
+| **ATROPOS** | No exact apparel hit found (weak search). Only the unrelated ATROP filing | **Lead candidate** |
+
+Why ATROPOS: in Greek myth Atropos is the Fate who cuts the thread of life, which ties to the brand's red-thread motif and works as an umbrella over many phrases (amor fati, memento mori, and so on). Seven letters, one word, pronounceable.
+
+### Logo concept
+
+A single continuous red line drawn as a tall, narrow "A". The line forms the left leg, crosses at the top, and the right leg ends in a small loose knot at the base. The apex stays open and the thread continues upward unbroken, like a thread of fate. Works as a tiny left-chest mark, an embroidered patch, and a woven neck label. The wordmark ATROPOS is set in wide-spaced refined serif capitals, matching the title lettering. Use bone white or oxblood on dark cloth.
