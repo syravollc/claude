@@ -1,5 +1,7 @@
 # Chalk-doodle animation (free tools)
 
+**v2 (livelier):** `engine2.py` + `example_v2.py`: jointed character (walk, run, wave, point, think, cheer), blinking and talking face, pop-in bounces, camera push/shake, scribble-erase transitions, chalk dust. Run `python3 example_v2.py out.mp4` (add `--voice` for a voiceover). The original `example_homeschool_day.py` is the calmer v1.
+
 White hand-wobbled lines on a black board, a stick figure, handwritten labels, orange accents, chalk-scratch sound. Original artwork and script (a style, not anyone's video).
 
 Files: `engine.py` (drawing + animation primitives), `example_homeschool_day.py` (the example), `fonts/` (open-licensed handwriting fonts).
