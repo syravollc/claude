@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Outreach desk</title>
+<style>
+:root{--bg:#fbf8f3;--fg:#2b2622;--muted:#6b625a;--card:#fff;--line:#e3dacd;--accent:#c4572d;--ok:#2b7a4b}
+@media(prefers-color-scheme:dark){:root{--bg:#1c1917;--fg:#f3ece3;--muted:#b3a99e;--card:#26211e;--line:#3a332e;--accent:#e07a50;--ok:#6fcf97}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 Arial,sans-serif}
+.wrap{max-width:820px;margin:0 auto;padding:16px}
+h1{font:bold 26px Georgia,serif;margin:10px 0 4px}.sub{color:var(--muted);margin-bottom:12px}
+.note{background:#fff3b0;color:#4a3b00;padding:10px 14px;border-radius:8px;font-size:14px;margin:10px 0}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px;margin:12px 0}
+.card.done{opacity:.6}
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap;justify-content:space-between}
+h2{font-size:18px;margin:0}.tag{font-size:12px;color:var(--muted)}
+pre{white-space:pre-wrap;font:14px/1.5 Arial,sans-serif;background:rgba(127,127,127,.08);border-radius:8px;padding:10px;margin:10px 0}
+button,a.btn{background:var(--accent);color:#fff;border:0;border-radius:8px;padding:9px 14px;font-size:14px;cursor:pointer;text-decoration:none;display:inline-block}
+a.btn.alt,button.alt{background:transparent;color:var(--accent);border:1.5px solid var(--accent)}
+label{font-size:14px;display:flex;gap:6px;align-items:center}
+textarea{width:100%;min-height:50px;border:1px solid var(--line);border-radius:8px;padding:8px;font:14px Arial;background:var(--card);color:var(--fg)}
+.stats{font-size:14px;color:var(--muted)}.stats b{color:var(--ok)}
+.warn{color:#c0392b;font-size:13px}
+</style></head><body><div class="wrap">
+<h1>Outreach desk</h1>
+<div class="sub">One message at a time: read, edit, copy, send yourself. Nothing here posts anything.</div>
+<div class="note"><b>Rules:</b> read each group's rules first &middot; ask the admin before sharing links &middot; change a line so it fits the group &middot; never send identical text to many places at once &middot; stop if someone says no. Verify every name and site: my research was from directories and may be out of date.</div>
+<div class="stats" id="stats"></div>
+<div id="list"></div>
+<div class="card"><h2>Add your own group or person</h2>
+<p class="tag">For the Facebook groups you find yourself. Pick a template, add the group name, then copy.</p>
+<div class="row"><select id="tpl"><option value="admin">Ask admin (before sharing)</option><option value="intro">Introduction post (only if allowed)</option></select>
+<input id="gname" placeholder="Group name" style="flex:1;padding:8px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg)">
+<button onclick="addCustom()">Add</button></div></div>
+</div>
+<script>
+const NAME="Fabian Capre";
+const T={
+admin:g=>`Hi, I'm ${NAME}. I was homeschooled from 3rd grade, finished high school at 13 through FLVS Flex, earned my associate degree at 15 and my bachelor's at 17, and I'm now working on a master's. I'd love to be useful to the members of ${g}: I've put together a free 10-question readiness checklist for families thinking about flexible or accelerated paths, and I'm happy to answer questions. Before I share anything, would that be okay with the rules of the group, and where would you like me to post it? Thanks for what you do. ${NAME}`,
+intro:g=>`Hi everyone! I'm ${NAME}, a former homeschooler from Florida. I finished high school at 13 (FLVS Flex) and my bachelor's at 17. I'm here to learn from this community and answer questions where I can about the first year, finding community, and starting college early. Not selling anything.`};
+const items=[
+{id:"pbc",name:"PBC Homeschoolers, Inc. (Palm Beach County)",type:"Local support group",url:"https://www.pbchomeschoolers.com",urlnote:"Site name comes from a 2019 article: confirm it still works. Use the contact or sign-up page.",msg:`Subject: A former Palm Beach County homeschooler, and a free resource for your members\n\nHi, my name is ${NAME}. I was homeschooled from 3rd grade, finished high school at 13 through FLVS Flex, earned my associate degree at Palm Beach State at 15 and my bachelor's at FAU at 17, and I'm now working on a master's. I'd love to be useful to your members, whether that's answering questions about flexible or accelerated paths, starting college early, or finding community in the first year.\nI've put together a free 10-question readiness checklist for families. Would you be open to me sharing it, or joining a park meeting to answer questions? I want to respect your group's rules, so I'm asking first. No pressure at all. Thank you for what you do. ${NAME}`},
+{id:"chs",name:"Christian Homeschool Support (Western Communities)",type:"Local, faith-based (use only if it fits you)",url:"https://www.thehomeschoolmom.com/local/christian-homeschool-support/",urlnote:"Directory listing (unvetted). It has a middle/high school subgroup for ages 12-17.",msg:`Subject: Former homeschooler offering a free resource for your high school families\n\nHello, I'm ${NAME}. I was homeschooled from 3rd grade, finished high school at 13 and college at 17, and I was active in local clubs and church organizations growing up. I'd be glad to answer questions from your middle and high school families, or share a free checklist about finding the right fit and starting college early. Would that be welcome in your group, and how would you like me to share it? Thanks for considering it. ${NAME}`},
+{id:"fpea",name:"Florida Parent Educators Association (FPEA)",type:"Statewide, 7 regions with district directors",url:"https://www.fpea.com",urlnote:"Published contact in an IEW listing: info@fpea.com, 1-877-ASK-FPEA. Verify at fpea.com and ask who your district director is.",msg:`Subject: Offer to help your families: starting college early and finding community\n\nHello, I'm ${NAME}, a Florida homeschool graduate (high school at 13 through FLVS Flex, associate at Palm Beach State at 15, bachelor's at FAU at 17). I'd like to offer a free resource and my experience to FPEA families, for example a short talk or Q&A about the first year of flexible schooling, finding community, and early college. Who is the right person in my district to ask? Thank you. ${NAME}`},
+{id:"wtm",name:"The Well-Trained Mind community forum",type:"Forum: reply to existing threads, no links",url:"https://forums.welltrainedmind.com/",urlnote:"Read the rules. Search for threads on early college, acceleration, or socialization, then reply helpfully.",msg:`I can only speak from my experience: I was homeschooled from 3rd grade, finished high school at 13 and a bachelor's at 17. The thing that helped most wasn't speed, it was my parents asking what was working for me and changing things. For starting college, I took the PERT test, finished high school, and enrolled, but rules differ by college, so I'd ask the college directly about age requirements and credit transfer. Happy to answer follow-up questions.`},
+{id:"reddit",name:"r/homeschool (Reddit)",type:"Forum post, no links",url:"https://www.reddit.com/r/homeschool/",urlnote:"Could not confirm activity. Check the sidebar rules for personal-experience posts first.",msg:`Title: Homeschooled from 3rd grade, graduated high school at 13, bachelor's at 17. Ask me about what worked and what was hard\n\nShort version: in-person school wasn't working for me, so my family pulled me out and built things around me. The first year was rough (no classroom structure, missing friends), and it took about a year to find community. I'm not a teacher or counselor, just sharing my experience. What would you like to know?`}];
+let S=JSON.parse(localStorage.getItem("od")||"{}");let C=JSON.parse(localStorage.getItem("odc")||"[]");
+const save=()=>{try{localStorage.setItem("od",JSON.stringify(S));localStorage.setItem("odc",JSON.stringify(C))}catch(e){}};
+function all(){return items.concat(C.map((c,i)=>({id:"c"+i,name:c.name,type:"Your group ("+(c.tpl==="admin"?"ask admin":"intro post")+")",url:"",urlnote:"Find it on Facebook yourself. Read the rules first.",msg:T[c.tpl](c.name)})))}
+function render(){const L=document.getElementById("list");L.innerHTML="";const a=all();let sent=0;
+a.forEach(it=>{const st=S[it.id]||{};if(st.sent)sent++;const d=document.createElement("div");d.className="card"+(st.sent?" done":"");
+d.innerHTML=`<div class="row"><div><h2></h2><div class="tag"></div></div><label><input type="checkbox" ${st.sent?"checked":""}> Sent</label></div>
+<div class="tag">${it.urlnote}</div><pre></pre><div class="row"><div>${it.url?`<a class="btn alt" href="${it.url}" target="_blank" rel="noopener">Open page</a>`:""} <button class="copy">Copy message</button></div></div>
+<textarea placeholder="Notes: date, reply, next step"></textarea>`;
+d.querySelector("h2").textContent=it.name;d.querySelector(".tag").textContent=it.type;d.querySelector("pre").textContent=it.msg;
+const ta=d.querySelector("textarea");ta.value=st.note||"";ta.oninput=()=>{S[it.id]=Object.assign(S[it.id]||{},{note:ta.value});save()};
+d.querySelector("input").onchange=e=>{S[it.id]=Object.assign(S[it.id]||{},{sent:e.target.checked});save();render()};
+d.querySelector(".copy").onclick=async e=>{try{await navigator.clipboard.writeText(it.msg);e.target.textContent="Copied!"}catch(x){e.target.textContent="Select and copy manually"}setTimeout(()=>e.target.textContent="Copy message",1500)};
+L.appendChild(d)});
+document.getElementById("stats").innerHTML=`Sent: <b>${sent}</b> of ${a.length}. Progress is saved in this browser only.`}
+function addCustom(){const n=document.getElementById("gname").value.trim();if(!n)return;C.push({name:n,tpl:document.getElementById("tpl").value});document.getElementById("gname").value="";save();render()}
+render();
+</script></body></html>
