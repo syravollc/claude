@@ -78,3 +78,29 @@ Use the garment's architecture instead of one box on the back:
 - Title AMOR FATI stays small, along the upper back.
 
 Feasibility to check with a provider (not verified): sleeve and cuff prints, continuous print across seams, printed or woven neck labels, and any embroidery. Panels printed separately will not line up across seams the way a cut-and-sew all-over print would.
+
+## Round 2 review (2026-10-19) and v4 direction: "The Fuse"
+
+Round 3 output (back, side, cuff): the garment-architecture idea works (red line along seams, phases placed along the spine, knots at cuffs, clouds on the shoulder blades), and real contrast stitching is plausible as a manufacturing detail. But the user finds it too simple: a line and a knot do not yet tell the story. The user's new ideas: love of fate as a heart on fire that burns beautifully and is embraced; an old hand holding the burning heart; death that smiles; designs running through the shoulders and the whole garment; the piece as a physical work of art.
+
+### v4 concept
+
+Fire as love. The red thread becomes a **fuse** that burns from the collar down the spine to a heart, and the flames climb back up and turn into the clouds on the shoulders: fate, fire, smoke and weather as one loop.
+
+| Zone | Element |
+|---|---|
+| Back collar | The red thread begins as a thin fuse (stitched or printed) |
+| Spine | The fuse runs down the spine, with small sparks along it. Phases I-IV placed along it. |
+| Lower back (hero image) | A pair of old, weathered, steady hands cradling an engraved anatomical heart that burns with beautiful engraved flames. Not in agony: calm, even tender |
+| Back, sides of the spine | Flames climb both sides of the spine and over the shoulder blades, dissolving into engraved smoke and clouds |
+| Shoulders | Clouds and drifting embers cross over the shoulder seams to the front and the sleeves |
+| Sleeves | Embers rise along the arms; the cuffs end with the small tied knot |
+| Front, sternum or left chest | A small cracked heart outline with one flame, nothing else |
+| Hidden detail (optional variant) | Death that smiles: a faint smiling skull in the smoke above the hands |
+
+Palette: bone white and oxblood red, plus an optional third ink in muted ember orange for the heart only. Engraving or etching line style. Washed charcoal-black cloth. Keep everything calm, dark and beautiful.
+
+### Making it real
+
+- This level of art needs a skilled illustrator and a producer that can print large areas, sleeves and shoulders, and possibly add contrast stitching. None of this is verified for any provider.
+- A piece like this suggests limited, numbered drops at a higher price with a printed story card, not a commodity tee. Prices and demand are untested.
