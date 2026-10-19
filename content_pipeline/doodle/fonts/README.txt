@@ -1,0 +1,1 @@
+Patrick Hand and Kalam are open fonts from Google Fonts (SIL Open Font License 1.1). They may be used and redistributed under that license; see https://openfontlicense.org. Source: https://github.com/google/fonts (ofl folder).
