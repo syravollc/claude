@@ -70,3 +70,17 @@ Then I change one or two things per round (for example composition, then palette
 - *Memento mori / memento vivere*: verify the Latin with a reliable source first.
 - *Veni, vidi, vici*: check trademarks before design.
 - *Fui, sum, ero* (probable form, verify): past, present and future as three zones of one image.
+
+## 9. Iteration log
+
+### Round 1 (2026-10-19): review of first output vs the section 7 checklist
+1. Story reads bottom to top: **yes**. Storm sea and wreckage at the bottom, a light-filled sky at the top.
+2. Figure clear, faceless, uncluttered: **yes**. Seen from behind at the wheel, hooded coat, reads slightly masculine.
+3. Red thread visible and continuous: **partly**. It is thin, fades into the light, and starts near the figure's hand, not tied to the boat.
+4. Palette limited to 5-6 colors: **no**. Blue sky and teal waves add colors outside the set.
+5. Edges and seams free of important detail: **no**. Busy cloud masses reach all edges.
+6. No text, signature or logo: **yes** (none visible).
+7. Feels like a painting: **yes**, strongly. Risk: it looks like a generic dramatic seascape, so the "love" half of the phrase is weak.
+
+Changes for round 2 (two only): thicker, brighter thread tied to the boat; palette locked, with no blue sky and no teal.
+Later rounds: add the "love" beat (calmer middle section, open posture); simplify the edges for printing.
