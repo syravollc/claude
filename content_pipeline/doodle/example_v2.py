@@ -126,7 +126,7 @@ def render_frame(b, t, durs, bounds):
     tr = .35 / durs[i]
     if p > 1 - tr and i < len(durs) - 1: b.erase((p - (1 - tr)) / tr)
     caption(b, SCENES[i][2], p)
-if __name__ == "__main__":
+def main():
     tmp = tempfile.mkdtemp(); durs = [s[0] for s in SCENES]; vp = None
     if "--voice" in sys.argv: durs = []; vp = voice(durs, tmp)
     bounds = [sum(durs[:i]) for i in range(len(durs) + 1)]; b = Board2()
@@ -146,3 +146,5 @@ if __name__ == "__main__":
         subprocess.run(base + ["-i", joined, "-filter_complex", "[1:a]volume=0.6[a1];[a1][2:a]amix=inputs=2:duration=first:normalize=0[a]", "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", out], check=True)
     else: subprocess.run(base + ["-map", "0:v", "-map", "1:a", "-c:v", "copy", "-c:a", "aac", "-shortest", out], check=True)
     print("wrote", out, f"({total:.1f}s)")
+if __name__ == "__main__":
+    main()
