@@ -47,5 +47,5 @@ for wk,(theme,sub,posts) in W.items():
             sc="\n".join(f"SCENE {n} ({s}s) | NARRATION: {nar} | VISUAL: {vis} | ON-SCREEN TEXT: {txt}" for n,(s,nar,vis,txt) in enumerate(p["scenes"],1))
             out.append(f"\n## Week {wk}, Post {i}: ANIMATED (faceless)\n**HOOK TEXT:** {p['hook']}\n\n{sc}\n\n**Caption:** {p['cap']}\n*Drafted with AI, reviewed and edited by me.*\n")
         if p.get("note"): out.append(f"**NOTE FOR YOU:** {p['note']}\n")
-open("weeks_02_to_08.md","w").write("\n".join(out))
+import os; open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "weeks_02_to_08.md"),"w").write("\n".join(out))
 print(sum(len(p) for *_,p in W.values()),"posts")

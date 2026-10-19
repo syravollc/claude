@@ -18,6 +18,9 @@ Everything else (physical dropshipping, trading, clothing brand) is parked. Free
 | Video tools | `make_animated_video.py`, `edit_video.py` | Built; run on your computer |
 | Trackers | `outreach_tracker.xlsx`, `income_scenarios.xlsx` | Built |
 
+## Added since: text posts, threads, scheduler exports
+`text_posts/` (starter pack answers, group rules, 32 posts + threads, `schedule_*.csv`), `content_pipeline/doodle/` (chalk-doodle engine v2 + two example videos), `AUTOMATION_SETUP.md`.
+
 ## Only you can do these (the real blockers)
 1. Create/use accounts: Kit, Cal.com, Payhip, social accounts. Paste in the copy.
 2. Fill: `[NAME]` (Fabian Capre), links, mailing address, `[X] days`.
