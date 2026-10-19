@@ -136,3 +136,13 @@ Why ATROPOS: in Greek myth Atropos is the Fate who cuts the thread of life, whic
 ### Logo concept
 
 A single continuous red line drawn as a tall, narrow "A". The line forms the left leg, crosses at the top, and the right leg ends in a small loose knot at the base. The apex stays open and the thread continues upward unbroken, like a thread of fate. Works as a tiny left-chest mark, an embroidered patch, and a woven neck label. The wordmark ATROPOS is set in wide-spaced refined serif capitals, matching the title lettering. Use bone white or oxblood on dark cloth.
+
+## Logo round 1 review (2026-10-19)
+
+First ATROPOS logo output (red line "A" with knot, serif wordmark, left-chest mockup).
+- Good: the wordmark (wide-spaced serif, bone white) is elegant and matches the AMOR FATI lettering; the left-chest placement and scale look right; red on black is on brand.
+- Problems:
+  1. It does not read as an "A": an inverted V with a stem and no crossbar. It reads as a rope or wishbone.
+  2. A rope hanging from above with a knot at the end can read as a noose. For a brand around fate and death that is a real risk (sensitive imagery, ad-platform and customer reactions). Avoid.
+  3. The line is very thin. It may disappear when printed small and is unlikely to embroider well. Confirm minimum line widths with the printer or embroiderer.
+- Fix: draw a real A with a crossbar; replace the hanging knot with a loose or cleanly cut thread end (Atropos cuts the thread); no vertical stem, no hanging posture; thicker line.
