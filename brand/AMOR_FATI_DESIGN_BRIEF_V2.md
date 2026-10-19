@@ -58,3 +58,23 @@ Rules: the red thread is the one consistent element across every piece in the br
 ## Reference note
 
 The two reference shirts the user sent are existing brand and band merchandise. They are structural references only (placed elements, small caption text, tour-list style type). Do not reproduce their lettering, logos, names, or layouts.
+
+## Round 1 review (2026-10-19) and v3 direction
+
+First ChatGPT output (back view, two inks, engraved hands, arched title, phase list, sleeve text).
+- Good: mood is calm and reverent, two-ink look reads premium, engraving style works, thread concept is clear, back text mostly spelled right.
+- Problems: sleeve text is garbled (mirrored letters); "III.IT" is missing a space; the whole idea still lives in one centered back graphic. The user is right: it is a good graphic, not yet a garment-specific design.
+
+### v3 idea: the wearer's wrists are the bound wrists ("worn fate")
+
+Use the garment's architecture instead of one box on the back:
+- **Sleeve cuffs:** the red thread is printed looping around both cuffs and tied in a small knot at each wrist, so the wearer's own wrists are the ones receiving the thread.
+- **Arms and shoulders:** the thread runs up each sleeve along the seam, over the shoulders.
+- **Upper back:** engraved clouds break open across the shoulder blades; the thread falls from the break.
+- **Spine:** the thread drops straight down the spine to the hem, ending in a calm loose knot (loved, not cut).
+- **Phases placed along the thread in reading order:** I. IT ARRIVES (back neck), II. IT BREAKS YOU OPEN (shoulder seam), III. IT TEACHES (mid-spine), IV. YOU LOVE IT (near the hem knot).
+- **Neck:** woven or printed inner label in red; the red thread starts at the back collar center.
+- **No separate hands illustration.** The wearer's hands are the hands. Optional small engraved hands at the lower hem as a quiet echo.
+- Title AMOR FATI stays small, along the upper back.
+
+Feasibility to check with a provider (not verified): sleeve and cuff prints, continuous print across seams, printed or woven neck labels, and any embroidery. Panels printed separately will not line up across seams the way a cut-and-sew all-over print would.
