@@ -1,3 +1,4 @@
 launch/ready_to_paste/
 __pycache__/
 *.pyc
+products/*.html
